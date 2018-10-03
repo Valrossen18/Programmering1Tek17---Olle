@@ -5,4 +5,4 @@
  * @author olle.ryden
  *
  */
-package programmeringsuppgifter;
+package datatyper.variabler;
